@@ -1,2 +1,3 @@
 # jagism
-Person Career Website
+
+Person Career Website with UI and backend API.
